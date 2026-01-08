@@ -1,0 +1,5 @@
+{
+  "name": "PerfectPixel Image Processor",
+  "description": "A professional tool to extract pixel-perfect scaled images from grid-based artwork or screen captures using FFT and grid refinement logic.",
+  "requestFramePermissions": []
+}
