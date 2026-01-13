@@ -1,6 +1,8 @@
-<div align="center">
+<img width="1129" height="253" alt="圖片" src="https://github.com/user-attachments/assets/8e37205f-dce1-4710-9190-cbb4313dfef5" /><div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
+
+https://jim3878.github.io/perfectPixel_webdemo/
 
 # Run and deploy your AI Studio app
 
